@@ -4,5 +4,7 @@
     <string name="app_name">TrainingCamp</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+     <string name="undefined">unknown</string>
+      <string name="init_val">0.0</string>
 
 </resources>
